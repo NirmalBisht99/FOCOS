@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # electron-app
 
 An Electron application with React
