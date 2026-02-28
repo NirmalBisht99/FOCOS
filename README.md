@@ -206,16 +206,16 @@ npm run build:linux
 # 📁 Project Structure (Simplified)
 
 
-FOCOS/
-│
-├── main/ # Electron main process
-├── preload/ # Secure IPC bridge
-├── renderer/ # React frontend
-│ ├── components/
-│ ├── pages/
-│ └── hooks/
-├── assets/
-└── package.json
+- FOCOS/
+- │
+- ├── main/ # Electron main process
+- ├── preload/ # Secure IPC bridge
+- ├── renderer/ # React frontend
+- │ ├── components/
+- │ ├── pages/
+- │ └── hooks/
+- ├── assets/
+- └── package.json
 
 
 ---
